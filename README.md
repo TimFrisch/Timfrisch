@@ -1,8 +1,8 @@
 # Hi there, I'm Tim Frisch! 👋
 
-**"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."**
+**<i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i>**
 
-![Profile Banner](path_to_your_banner_image) <!-- Optional: Add a banner image -->
+<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:auto;" /> <!-- Optional: Add a banner image -->
 
 ## 🚀 About Me
 
@@ -57,11 +57,11 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
 
 ## 📈 GitHub Stats
 
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Tim's GitHub stats" />
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages" />
 
 <!-- Optional: Add any badges or additional information here -->
 
