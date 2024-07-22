@@ -80,18 +80,7 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
   <li><strong>Twitter:</strong> <a href="link_to_twitter" style="color: orange;">Your Twitter Profile</a></li>
 </ul>
 
-## <span style="color: orange; border-bottom: 2px solid orange;">📈 GitHub Stats</span>
 
-<img src="https://github-readme-stats.vercel.app/api?username=timfrisch&show_icons=true&theme=radical" alt="Tim's GitHub stats" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
-
-## <span style="color: orange; border-bottom: 2px solid orange;">🏆 Top Languages</span>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timfrisch&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
-
-<p align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/github/followers/timfrisch?label=Follow&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/timfrisch?label=Stars&style=social" alt="GitHub stars">
-</p>
 
 Thanks for stopping by!
 </body>
