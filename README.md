@@ -2,69 +2,93 @@
 
 **<i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i>**
 
-<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:auto;" /> <!-- Optional: Add a banner image -->
+<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:auto; border-radius: 10px; margin-bottom: 20px;" />
 
 ## 🚀 About Me
 
-I'm a passionate 21-year-old Full-Stack Developer from Junglinster, Luxembourg, with a Diploma of Technician in Computer Science (DT). I thrive on problem-solving and love bringing creative solutions to life through technology.
+<p style="font-size: 1.2em; line-height: 1.5; color: #333;">
+  I'm a passionate 21-year-old Full-Stack Developer from Junglinster, Luxembourg, with a Diploma of Technician in Computer Science (DT). I thrive on problem-solving and love bringing creative solutions to life through technology.
+</p>
 
-- **Location:** Junglinster, Luxembourg
-- **Degree:** Diploma of Technician in Computer Science (DT)
-- **Phone:** +352 621 816 424
-- **Email:** [timfrisch530@gmail.com](mailto:timfrisch530@gmail.com)
+<ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+  <li><strong>Location:</strong> Junglinster, Luxembourg</li>
+  <li><strong>Degree:</strong> Diploma of Technician in Computer Science (DT)</li>
+  <li><strong>Phone:</strong> +352 621 816 424</li>
+  <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com">timfrisch530@gmail.com</a></li>
+</ul>
 
 ## 🛠️ Skills
 
 ### Frontend
 - HTML, CSS, JavaScript
-- React, Angular, Vue.js
-- Bootstrap, Tailwind CSS
+- React, JQuery
+- Bootstrap, SCSS
 
 ### Backend
 - Node.js, Express.js
-- PHP, Laravel
-- Python, Django, Flask
+- PHP
+- MySQL
 
 ### Databases
-- MySQL, PostgreSQL
-- MongoDB, Firebase
+- SQL
+- MariaDB
+- PhpMyAdmin
 
 ### Tools & Platforms
-- Git, GitHub, GitLab
-- Docker, Kubernetes
-- AWS, Heroku, Netlify
+- GitHub
+- Bash/Powershell
+- RESTful APIs
+- Figma
 
 ## 🌟 Projects
 
 Here are some of the projects I'm proud of:
 
-### [Project 1](link_to_project)
-A brief description of the project, highlighting the creative and technical aspects.
+### [Coca-Cola](https://timfrisch.net/projects/Cola/index.html)
+<p style="color: #555;">
+  This project involved creating an E-Commerce platform for Coca-Cola products, where users can browse, view details, and purchase items online. 
+  <strong class="text-success">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.
+</p>
 
-### [Project 2](link_to_project)
-A brief description of the project, highlighting the creative and technical aspects.
+### [Bavaria](https://timfrisch.net/projects/Bavaria/index.php)
+<p style="color: #555;">
+  A school project where we were required to create a shopping site using PHP and MySQL. 
+  <strong class="text-success">Technologies used:</strong> HTML, CSS, PHP, MySQL.
+</p>
 
-### [Project 3](link_to_project)
-A brief description of the project, highlighting the creative and technical aspects.
+### [Luxlait](https://timfrisch.net/projects/Cola/index.html)
+<p style="color: #555;">
+  This project involved creating an E-Commerce platform for Luxlait products, where users can browse, view details, and purchase items online. 
+  <strong class="text-success">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.
+</p>
+
+### [GreenTech](https://timfrisch.net/projects/Bavaria/index.php)
+<p style="color: #555;">
+  A school project where we were required to create a shopping site using PHP and MySQL. 
+  <strong class="text-success">Technologies used:</strong> HTML, CSS, PHP, MySQL.
+</p>
 
 ## 📫 Contact Me
 
 I'm always open to collaborating on new projects or discussing ideas. Feel free to reach out to me!
 
-- **Email:** [timfrisch530@gmail.com](mailto:timfrisch530@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](link_to_linkedin)
-- **Twitter:** [Your Twitter Profile](link_to_twitter)
+<ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+  <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com">timfrisch530@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="link_to_linkedin">Your LinkedIn Profile</a></li>
+  <li><strong>Twitter:</strong> <a href="link_to_twitter">Your Twitter Profile</a></li>
+</ul>
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Tim's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Tim's GitHub stats" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
 
 ## 🏆 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
 
-<!-- Optional: Add any badges or additional information here -->
+<p align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/github/followers/your_github_username?label=Follow&style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/your_github_username?label=Stars&style=social" alt="GitHub stars">
+</p>
 
 Thanks for stopping by!
-
----
