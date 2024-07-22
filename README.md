@@ -1,3 +1,4 @@
+<body style="background-color: orange">
 # Hi there, I'm Tim Frisch! 👋
 
 **<i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i>**
@@ -92,3 +93,4 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
 </p>
 
 Thanks for stopping by!
+</body>
