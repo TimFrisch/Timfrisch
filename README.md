@@ -1,4 +1,4 @@
-<body>
+<body style="background-color: #fff; color: #333;">
 # Hi there, I'm Tim Frisch! 👋
 
 **<i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i>**
@@ -11,11 +11,11 @@
   I'm a passionate 21-year-old Full-Stack Developer from Junglinster, Luxembourg, with a Diploma of Technician in Computer Science (DT). I thrive on problem-solving and love bringing creative solutions to life through technology.
 </p>
 
-<ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+<ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333;">
   <li><strong>Location:</strong> Junglinster, Luxembourg</li>
   <li><strong>Degree:</strong> Diploma of Technician in Computer Science (DT)</li>
   <li><strong>Phone:</strong> +352 621 816 424</li>
-  <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com">timfrisch530@gmail.com</a></li>
+  <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com" style="color: orange;">timfrisch530@gmail.com</a></li>
 </ul>
 
 ## <span style="color: orange;">🛠️ Skills</span>
@@ -48,35 +48,35 @@ Here are some of the projects I'm proud of:
 ### [Coca-Cola](https://timfrisch.net/projects/Cola/index.html)
 <p style="color: #555;">
   This project involved creating an E-Commerce platform for Coca-Cola products, where users can browse, view details, and purchase items online. 
-  <strong class="text-success">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.
+  <strong style="color: orange;">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.
 </p>
 
 ### [Bavaria](https://timfrisch.net/projects/Bavaria/index.php)
 <p style="color: #555;">
   A school project where we were required to create a shopping site using PHP and MySQL. 
-  <strong class="text-success">Technologies used:</strong> HTML, CSS, PHP, MySQL.
+  <strong style="color: orange;">Technologies used:</strong> HTML, CSS, PHP, MySQL.
 </p>
 
 ### [Luxlait](https://timfrisch.net/projects/Cola/index.html)
 <p style="color: #555;">
   This project involved creating an E-Commerce platform for Luxlait products, where users can browse, view details, and purchase items online. 
-  <strong class="text-success">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.
+  <strong style="color: orange;">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.
 </p>
 
 ### [GreenTech](https://timfrisch.net/projects/Bavaria/index.php)
 <p style="color: #555;">
   A school project where we were required to create a shopping site using PHP and MySQL. 
-  <strong class="text-success">Technologies used:</strong> HTML, CSS, PHP, MySQL.
+  <strong style="color: orange;">Technologies used:</strong> HTML, CSS, PHP, MySQL.
 </p>
 
 ## <span style="color: orange;">📫 Contact Me</span>
 
 I'm always open to collaborating on new projects or discussing ideas. Feel free to reach out to me!
 
-<ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
-  <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com">timfrisch530@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="link_to_linkedin">Your LinkedIn Profile</a></li>
-  <li><strong>Twitter:</strong> <a href="link_to_twitter">Your Twitter Profile</a></li>
+<ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #333;">
+  <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com" style="color: orange;">timfrisch530@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="link_to_linkedin" style="color: orange;">Your LinkedIn Profile</a></li>
+  <li><strong>Twitter:</strong> <a href="link_to_twitter" style="color: orange;">Your Twitter Profile</a></li>
 </ul>
 
 ## <span style="color: orange;">📈 GitHub Stats</span>
