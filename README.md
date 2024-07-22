@@ -1,11 +1,11 @@
-<body style="background-color: orange">
+<body>
 # Hi there, I'm Tim Frisch! 👋
 
 **<i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i>**
 
 <img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:auto; border-radius: 10px; margin-bottom: 20px;" />
 
-## 🚀 About Me
+## <span style="color: orange;">🚀 About Me</span>
 
 <p style="font-size: 1.2em; line-height: 1.5; color: #333;">
   I'm a passionate 21-year-old Full-Stack Developer from Junglinster, Luxembourg, with a Diploma of Technician in Computer Science (DT). I thrive on problem-solving and love bringing creative solutions to life through technology.
@@ -18,30 +18,30 @@
   <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com">timfrisch530@gmail.com</a></li>
 </ul>
 
-## 🛠️ Skills
+## <span style="color: orange;">🛠️ Skills</span>
 
-### Frontend
+### <span style="border-bottom: 2px solid orange;">Frontend</span>
 - HTML, CSS, JavaScript
 - React, JQuery
 - Bootstrap, SCSS
 
-### Backend
+### <span style="border-bottom: 2px solid orange;">Backend</span>
 - Node.js, Express.js
 - PHP
 - MySQL
 
-### Databases
+### <span style="border-bottom: 2px solid orange;">Databases</span>
 - SQL
 - MariaDB
 - PhpMyAdmin
 
-### Tools & Platforms
+### <span style="border-bottom: 2px solid orange;">Tools & Platforms</span>
 - GitHub
 - Bash/Powershell
 - RESTful APIs
 - Figma
 
-## 🌟 Projects
+## <span style="color: orange;">🌟 Projects</span>
 
 Here are some of the projects I'm proud of:
 
@@ -69,7 +69,7 @@ Here are some of the projects I'm proud of:
   <strong class="text-success">Technologies used:</strong> HTML, CSS, PHP, MySQL.
 </p>
 
-## 📫 Contact Me
+## <span style="color: orange;">📫 Contact Me</span>
 
 I'm always open to collaborating on new projects or discussing ideas. Feel free to reach out to me!
 
@@ -79,11 +79,11 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
   <li><strong>Twitter:</strong> <a href="link_to_twitter">Your Twitter Profile</a></li>
 </ul>
 
-## 📈 GitHub Stats
+## <span style="color: orange;">📈 GitHub Stats</span>
 
 <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Tim's GitHub stats" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
 
-## 🏆 Top Languages
+## <span style="color: orange;">🏆 Top Languages</span>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
 
