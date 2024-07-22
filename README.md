@@ -1,3 +1,4 @@
+<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:80%; height:auto; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 <body style="background-image: url('https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; color: #fff; font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 20px;">
 
 # Hi there, I'm Tim Frisch! 👋
@@ -57,7 +58,7 @@ Here are some of the projects I'm proud of:
   A school project where we were required to create a shopping site using PHP and MySQL. 
   <strong style="color: orange;">Technologies used:</strong> HTML, CSS, PHP, MySQL.
 </p>
-<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:80%; height:auto; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+
 ### [Luxlait](https://timfrisch.net/projects/Cola/index.html)
 <p style="color: #fff;">
   This project involved creating an E-Commerce platform for Luxlait products, where users can browse, view details, and purchase items online. 
@@ -84,3 +85,4 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
 
 Thanks for stopping by!
 </body>
+<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:80%; height:auto; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
