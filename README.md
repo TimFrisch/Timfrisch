@@ -82,7 +82,7 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
 
 ## <span style="color: orange; border-bottom: 2px solid orange;">📈 GitHub Stats</span>
 
-<img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Tim's GitHub stats" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
+<img src="https://github-readme-stats.vercel.app/api?username=timfrisch&show_icons=true&theme=radical" alt="Tim's GitHub stats" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
 
 ## <span style="color: orange; border-bottom: 2px solid orange;">🏆 Top Languages</span>
 
