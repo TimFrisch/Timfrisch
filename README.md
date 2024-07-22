@@ -86,11 +86,11 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
 
 ## <span style="color: orange; border-bottom: 2px solid orange;">🏆 Top Languages</span>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timfrisch&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/github/followers/your_github_username?label=Follow&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/your_github_username?label=Stars&style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/timfrisch?label=Follow&style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/timfrisch?label=Stars&style=social" alt="GitHub stars">
 </p>
 
 Thanks for stopping by!
