@@ -18,7 +18,7 @@
   <li><strong>Phone:</strong> +352 621 816 424</li>
   <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com" style="color: orange;">timfrisch530@gmail.com</a></li>
 </ul>
-
+<img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 ## <span style="color: orange; border-bottom: 2px solid orange;">🛠️ Skills</span>
 
 
@@ -84,7 +84,7 @@
 - MariaDB
 - PhpMyAdmin
 
-  <img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
 ### <span style="color: orange;">Tools & Platforms</span>
 
@@ -115,7 +115,7 @@
 - Blender
 
 
-  <img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   
 ## <span style="color: orange; border-bottom: 2px solid orange;">🌟 Projects</span>
 
@@ -144,7 +144,7 @@ Here are some of the projects I'm proud of:
   A school project where we were required to create a shopping site using PHP and MySQL. 
   <strong style="color: orange;">Technologies used:</strong> HTML, CSS, PHP, MySQL.
 </p>
-
+<img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 ## <span style="color: orange; border-bottom: 2px solid orange;">📫 Contact Me</span>
 
 I'm always open to collaborating on new projects or discussing ideas. Feel free to reach out to me!
@@ -155,18 +155,6 @@ I'm always open to collaborating on new projects or discussing ideas. Feel free 
   <li><strong>Twitter:</strong> <a href="link_to_twitter" style="color: orange;">Your Twitter Profile</a></li>
 </ul>
 
-## <span style="color: orange; border-bottom: 2px solid orange;">📈 GitHub Stats</span>
-
-<img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="Tim's GitHub stats" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
-
-## <span style="color: orange; border-bottom: 2px solid orange;">🏆 Top Languages</span>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; max-width: 600px; margin: 0 auto; display: block;" />
-
-<p align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/github/followers/your_github_username?label=Follow&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/your_github_username?label=Stars&style=social" alt="GitHub stars">
-</p>
-
 Thanks for stopping by!
+<img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </body>
