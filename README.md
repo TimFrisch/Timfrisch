@@ -41,7 +41,7 @@
 - Bash/Powershell
 - RESTful APIs
 - Figma
-
+- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> Bash / Powershell
 ## <span style="color: orange; border-bottom: 2px solid orange;">🌟 Projects</span>
 
 Here are some of the projects I'm proud of:
