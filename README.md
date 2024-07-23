@@ -4,8 +4,8 @@
 
 **<i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i>**
 
-<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:15px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-
+<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:100%; postiton: relative" />
 ## <span style="color: orange; border-bottom: 2px solid orange;">🚀 About Me</span>
 
 <p style="font-size: 1.2em; line-height: 1.5; color: #fff;">
