@@ -1,10 +1,10 @@
 <div style="background-image: url('https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; padding: 20px; color: #fff; font-family: Arial, sans-serif;">
-  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; margin-bottom: 10px;" />
-  
+  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   <h1>Hi there, I'm Tim Frisch! 👋</h1>
   <p><i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i></p>
-  
-  <img src="https://i.pinimg.com/736x/20/2d/c5/202dc523994cd90b997a115166146ef9.jpg" alt="Profile Banner" style="width:100%; height:auto; margin-bottom: 10px;" />
+  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://i.pinimg.com/736x/20/2d/c5/202dc523994cd90b997a115166146ef9.jpg" alt="Profile Banner" style="width:100%; height:auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   
   <h2 style="color: orange; border-bottom: 2px solid orange;">🚀 About Me</h2>
   <p>I'm a passionate 21-year-old Full-Stack Developer from Junglinster, Luxembourg, with a Diploma of Technician in Computer Science (DT). I thrive on problem-solving and love bringing creative solutions to life through technology.</p>
@@ -15,9 +15,11 @@
     <li><strong>Phone:</strong> +352 621 816 424</li>
     <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com" style="color: orange;">timfrisch530@gmail.com</a></li>
   </ul>
+  
+  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
   <h2 style="color: orange;">🛠️ Skills</h2>
-  
+
   <h3 style="color: orange;">Frontend</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -99,4 +101,5 @@
   </ul>
   
   <p>Thanks for stopping by!</p>
+  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px;  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
