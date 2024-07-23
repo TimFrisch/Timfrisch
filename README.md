@@ -24,7 +24,7 @@
 ### <span style="color: orange;">Frontend</span>
 - HTML, CSS, JavaScript
 - React, JQuery
-- Bootstrap, SCSS
+-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> Bootstrap, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>SCSS
 
 ### <span style="color: orange;">Backend</span>
 - Node.js, Express.js
@@ -42,6 +42,7 @@
 - RESTful APIs
 - Figma
 - <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> Bash / Powershell
+- <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> Blender 
 ## <span style="color: orange; border-bottom: 2px solid orange;">🌟 Projects</span>
 
 Here are some of the projects I'm proud of:
