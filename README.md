@@ -51,7 +51,7 @@
 - Bootstrap
 - SCSS
   
-  
+  <img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
 
 ### <span style="color: orange;">Backend</span>
