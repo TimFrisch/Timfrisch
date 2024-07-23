@@ -4,7 +4,7 @@
 
 **<i>"A creative Full-Stack Developer, turning innovative ideas into elegant and functional digital solutions."</i>**
 
-<img src="https://i.pinimg.com/736x/20/2d/c5/202dc523994cd90b997a115166146ef9.jpg" alt="Profile Banner" style="width:80%; height:auto; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+<img src="https://i.pinimg.com/736x/20/2d/c5/202dc523994cd90b997a115166146ef9.jpg" alt="Profile Banner" style="width:100%; height:auto; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
 ## <span style="color: orange; border-bottom: 2px solid orange;">🚀 About Me</span>
 
@@ -51,7 +51,7 @@
 - Bootstrap
 - SCSS
   
-  <img src="https://t3.ftcdn.net/jpg/01/01/82/72/360_F_101827233_lk3Z4zbgtDLVZTHi2TZLae2zuWHbFsxq.jpg" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://hcahealthcaretoday.com/wp-content/uploads/2020/05/Header-Pattern@2x.png" alt="Profile Banner" style="width:100%; height:5px; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 
 
 ### <span style="color: orange;">Backend</span>
