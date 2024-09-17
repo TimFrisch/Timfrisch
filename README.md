@@ -79,25 +79,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 
-  <h2 style="color: orange;">🌟 Projects</h2>
-
-  <h3><a href="https://timfrisch.net/projects/Cola/index.html" style="color: orange;">Coca-Cola</a></h3>
-  <p>This project involved creating an E-Commerce platform for Coca-Cola products, where users can browse, view details, and purchase items online. <strong style="color: orange;">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.</p>
-
-  <h3><a href="https://timfrisch.net/projects/Bavaria/index.php" style="color: orange;">Bavaria</a></h3>
-  <p>A school project where we were required to create a shopping site using PHP and MySQL. <strong style="color: orange;">Technologies used:</strong> HTML, CSS, PHP, MySQL.</p>
-
-  <h3><a href="https://timfrisch.net/projects/Cola/index.html" style="color: orange;">Luxlait</a></h3>
-  <p>This project involved creating an E-Commerce platform for Luxlait products, where users can browse, view details, and purchase items online. <strong style="color: orange;">Technologies used:</strong> HTML, CSS, JavaScript, jQuery, PHP, MySQL, Bootstrap.</p>
-
-  <h3><a href="https://timfrisch.net/projects/Bavaria/index.php" style="color: orange;">GreenTech</a></h3>
-  <p>A school project where we were required to create a shopping site using PHP and MySQL. <strong style="color: orange;">Technologies used:</strong> HTML, CSS, PHP, MySQL.</p>
-
+ 
   <h2 style="color: orange;">📫 Contact Me</h2>
   <ul style="list-style-type: none; padding: 0; font-size: 1.1em; color: #fff;">
     <li><strong>Email:</strong> <a href="mailto:timfrisch530@gmail.com" style="color: orange;">timfrisch530@gmail.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="link_to_linkedin" style="color: orange;">Your LinkedIn Profile</a></li>
-    <li><strong>Twitter:</strong> <a href="link_to_twitter" style="color: orange;">Your Twitter Profile</a></li>
   </ul>
   
   <p>Thanks for stopping by!</p>
